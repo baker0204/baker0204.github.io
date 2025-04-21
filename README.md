@@ -1,1 +1,1 @@
-A github pages for my personal portfolio.
+A github page for my personal portfolio.
